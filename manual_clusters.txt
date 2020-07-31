@@ -19,7 +19,7 @@ bygga byggde
 sjörå sjöråa
 gubbe gubben gubbens
 gumma gumman gummans
-barn barnet barnen barnets barnen
+barn barnet barnen barnets barnen barna
 tomte tomten tomtarna
 gast gasten
 sten stenen
@@ -51,7 +51,8 @@ pappa pappan far fadern fäder faderns
 söner sönerna son sonen sonens
 boskap boskapen
 björkar buskar buskarna träd träden trädet skogarna
-djuren fåren getter getterna grisar kalvar kreaturen stutar kreaturet
+kreaturen kreaturet
+djuren fåren getter getterna grisar stutar
 granar granen granris markerna 
 gräset löv mossa
 åkern åkrar åkrarna
@@ -102,5 +103,10 @@ herrgård herrgården
 ladugård ladugården
 mjölk mjölken
 prästgård prästgården
-spotta sppttade
+spotta spottade
 bonde bondens bonden
+hundar hundarna
+princessa princessan princessans
+drottning drottningen drottningens
+prin prinsen prinsens
+
