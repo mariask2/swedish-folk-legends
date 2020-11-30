@@ -48,7 +48,7 @@ Number of runs to check the stability of the retrieved topics.
 Only topics that occur in all NUMBER_OF_RUNS runs will be
 considered valid
 """
-NUMBER_OF_RUNS = 100
+NUMBER_OF_RUNS = 50
 
 
 """
