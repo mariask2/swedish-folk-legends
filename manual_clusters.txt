@@ -111,4 +111,8 @@ drottning drottningen drottningens
 prins prinsen prinsens
 källa källan
 rida red ridit
-
+mörda mördade mördat
+klocka klockor klockan
+döda dödas
+dödar dödade dödat
+dö dog dött 
