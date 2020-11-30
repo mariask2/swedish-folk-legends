@@ -109,4 +109,6 @@ hundar hundarna
 princessa princessan princessans
 drottning drottningen drottningens
 prins prinsen prinsens
+källa källan
+rida red ridit
 
