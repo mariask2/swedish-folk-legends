@@ -28,19 +28,19 @@ The topic modelling algorithm is rerun with a decrease number of requested topic
 until the number of found stable topics are similar to the ones requested
 The amont of similarity is set here.
 """
-#PROPORTION_OF_LESS_TOPIC_TO_ALLOW = 0.3
+
 PROPORTION_OF_LESS_TOPIC_TO_ALLOW = 0.9
 
 """
 Nr of words to display for each topic
 """
-#NR_OF_TOP_WORDS = 10
+
 NR_OF_TOP_WORDS = 10
 
 """
 Nr of most typical document to retrieve for each topic
 """
-#NR_OF_TOP_DOCUMENTS = 50
+
 NR_OF_TOP_DOCUMENTS = 40
 
 """
@@ -65,7 +65,6 @@ PRE_PROCESS = True
 
 VECTOR_LENGTH = 100
 SPACE_FOR_PATH = "/Users/marsk757/wordspaces/69/model.bin"
-#MAX_DIST_FOR_CLUSTERING = 0.55
 MAX_DIST_FOR_CLUSTERING = 0.60
 WORDS_NOT_TO_INCLUDE_IN_CLUSTERING_FILE = "not_cluster.txt"
 MANUAL_CLUSTER_FILE = "manual_clusters.txt"
@@ -106,15 +105,11 @@ DATA_LABEL_LIST = [{DATA_LABEL : "Hum", DIRECTORY_NAME : "hum", LABEL_COLOR : GR
 
 
 TOPIC_MODEL_ALGORITHM = NMF_NAME
-#TOPIC_MODEL_ALGORITHM = LDA_NAME
 
 
 MAX_NR_OF_FEATURES = 10000
 
-#STOP_WORD_SET = set(["many", "child", "kids", "parent", "types"])
-#STOP_WORD_SET = set(stopwords.words('english'))
-
-# Needed to do nltk.download('stopwords') to get it to work
+# Need to do nltk.download('stopwords') to get it to work
 STOP_WORD_SET = set(stopwords.words('swedish'))
 print("STOP_WORD_SET", STOP_WORD_SET)
 
