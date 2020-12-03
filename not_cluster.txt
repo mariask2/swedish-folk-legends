@@ -569,4 +569,5 @@ plockat
 slängt
 släpat
 välling
-
+fruntimmer
+skjuta
